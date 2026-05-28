@@ -1,0 +1,2 @@
+# Data directory — CSV files are excluded from Git (see .gitignore)
+# Run: python data/download_data.py to fetch the full dataset
