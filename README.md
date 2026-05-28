@@ -332,5 +332,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-Built with ❤️ by <a href="https://github.com/your-username">Your Name</a>
+Built with ❤️ by <a href="https://github.com/MohitRajKashyap">Mohit Raj Kashyap</a>
 </div>
